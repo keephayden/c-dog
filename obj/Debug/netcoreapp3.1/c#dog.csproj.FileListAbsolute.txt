@@ -1,0 +1,11 @@
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog.deps.json
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog.runtimeconfig.json
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog.runtimeconfig.dev.json
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog.dll
+/Users/keephayden/Desktop/c#dog/bin/Debug/netcoreapp3.1/c#dog.pdb
+/Users/keephayden/Desktop/c#dog/obj/Debug/netcoreapp3.1/c#dog.csprojAssemblyReference.cache
+/Users/keephayden/Desktop/c#dog/obj/Debug/netcoreapp3.1/c#dog.AssemblyInfoInputs.cache
+/Users/keephayden/Desktop/c#dog/obj/Debug/netcoreapp3.1/c#dog.AssemblyInfo.cs
+/Users/keephayden/Desktop/c#dog/obj/Debug/netcoreapp3.1/c#dog.dll
+/Users/keephayden/Desktop/c#dog/obj/Debug/netcoreapp3.1/c#dog.pdb
