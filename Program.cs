@@ -1,8 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace c_dog
 {
-    class Program
+    class dog
     {
         static void Main(string[] args)
         {
